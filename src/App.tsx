@@ -1,4 +1,4 @@
-﻿import Header from './components/Header'
+import Header from './components/Header'
 import Produtos from './containers/Produtos'
 import { useGetProdutosQuery } from './services/api'
 import { useDispatch, useSelector } from 'react-redux'
